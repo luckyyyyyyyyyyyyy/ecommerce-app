@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "deploy_2022",
-    "password": "chandu@123",
-    "database": "ecommerce_deploy",
-    "host": "db4free.net",
+    "username": "root",
+    "password": null,
+    "database": "ecommerce",
+    "host": "127.0.0.1",
     "dialect": "mysql"
     
     
